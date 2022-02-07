@@ -1,0 +1,59 @@
+,,,,"angles augmentés","angles augmentés","angles augmentés","angles observés","angles observés","angles observés"
+"base","num_triangle","nom du point","code_point","d","m","s","d","m","s"
+"St Margueritte - Notre-Dame",1,"Piramide",2,40,34,51,40,33,51
+"St Margueritte - Notre-Dame",1,"Observatoire",1,61,19,0,61,19,0
+"St Margueritte - Notre-Dame",1,"Ste Margueritte",3,78,7,10,78,7,10
+"St Margueritte - Notre-Dame",2,"Piramide",2,13,33,58,13,33,58
+"St Margueritte - Notre-Dame",2,"Observatoire",1,26,47,20,26,47,20
+"St Margueritte - Notre-Dame",2,"Notre-Dame",4,139,39,15,139,39,15
+"St Margueritte - Notre-Dame",3,"Piramide",2,27,1,1,27,0,1
+"St Margueritte - Notre-Dame",3,"Notre-Dame",4,104,9,50,104,9,50
+"St Margueritte - Notre-Dame",3,"Ste Margueritte",3,48,49,19,48,49,19
+"St Margueritte - Notre-Dame",4,"Observatoire",1,34,31,40,34,31,40
+"St Margueritte - Notre-Dame",4,"Ste Margueritte",3,29,17,51,29,17,51
+"St Margueritte - Notre-Dame",4,"Notre-Dame",4,116,10,55,116,10,55
+"St Sulpice",5,"Ste Margueritte",3,52,36,16,52,36,16
+"St Sulpice",5,"Piramide",2,43,2,35,43,1,5
+"St Sulpice",5,"St Sulpice",5,84,21,43,84,21,13
+"St Sulpice",6,"Ste Margueritte",3,25,30,54,25,30,54
+"St Sulpice",6,"St Sulpice",5,87,1,37,87,1,7
+"St Sulpice",6,"Observatoire",1,67,27,0,67,27,0
+"St Sulpice",7,"Observatoire",1,32,55,20,32,55,20
+"St Sulpice",7,"Notre-Dame",4,52,1,30,52,1,30
+"St Sulpice",7,"St Sulpice",5,95,3,9,95,2,9
+"St Sulpice",8,"Piramide",2,16,1,34,16,1,4
+"St Sulpice",8,"St Sulpice",5,76,20,11,76,20,11
+"St Sulpice",8,"Notre-Dame",4,87,37,45,87,37,45
+"Hôtel Soissons",9,"Ste Margueritte",3,49,20,57,49,20,57
+"Hôtel Soissons",9,"Hôtel Soissons",6,78,40,0,78,40,0
+"Hôtel Soissons",9,"Observatoire",1,51,57,10,51,57,10
+"Hôtel Soissons",10,"Ste Margueritte",3,23,50,3,23,50,3
+"Hôtel Soissons",10,"Hôtel Soissons",6,96,32,0,96,32,0
+"Hôtel Soissons",10,"St Sulpice",5,59,37,16,59,36,46
+"Hôtel Soissons",11,"Notre-Dame",4,77,48,15,77,48,15
+"Hôtel Soissons",11,"Hôtel Soissons",6,50,36,0,50,36,0
+"Hôtel Soissons",11,"St Sulpice",5,51,35,44,51,35,44
+"Hôtel Soissons",12,"Observatoire",1,17,25,30,17,25,30
+"Hôtel Soissons",12,"Notre-Dame",4,129,49,45,129,49,45
+"Hôtel Soissons",12,"Hôtel Soissons",6,32,44,0,32,44,0
+"Hôtel Soissons",13,"Observatoire",1,15,29,50,15,29,50
+"Hôtel Soissons",13,"Hôtel Soissons",6,17,52,0,17,52,0
+"Hôtel Soissons",13,"St Sulpice",5,146,38,53,146,38,23
+"Porte St Denis",14,"Ste Margueritte",3,44,38,2,44,38,2
+"Porte St Denis",14,"Porte St Denis",7,81,50,8,81,49,58
+"Porte St Denis",14,"St Sulpice",5,53,33,14,53,32,44
+"Porte St Denis",15,"Ste Margueritte",3,40,51,5,40,51,5
+"Porte St Denis",15,"Porte St Denis",7,56,29,45,56,29,45
+"Porte St Denis",15,"Notre-Dame",4,82,39,20,82,39,20
+"Porte St Denis",16,"Piramide",2,33,15,0,33,13,30
+"Porte St Denis",16,"St Sulpice",5,30,48,29,30,48,29
+"Porte St Denis",16,"Porte St Denis",7,115,55,43,115,55,43
+"Porte St Denis",17,"St Sulpice",5,45,31,42,45,31,42
+"Porte St Denis",17,"Notre-Dame",4,109,8,15,109,8,15
+"Porte St Denis",17,"Porte St Denis",7,25,20,23,25,20,13
+"Porte St Denis",18,"Piramide",2,17,13,26,17,12,26
+"Porte St Denis",18,"Notre-Dame",4,21,30,30,21,30,30
+"Porte St Denis",18,"Porte St Denis",7,141,16,6,141,16,56
+"Porte St Denis",19,"Notre-Dame",4,31,20,0,31,20,0
+"Porte St Denis",19,"Porte St Denis",7,33,21,50,33,21,40
+"Porte St Denis",19,"Hôtel Soissons",6,115,19,30,115,20,30
